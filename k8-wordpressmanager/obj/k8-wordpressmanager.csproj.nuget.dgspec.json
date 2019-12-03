@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nlsxh0147/dev/prive/k8-wordpressmanager/k8-wordpressmanager.csproj": {}
+  },
+  "projects": {
+    "/Users/nlsxh0147/dev/prive/k8-wordpressmanager/k8-wordpressmanager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nlsxh0147/dev/prive/k8-wordpressmanager/k8-wordpressmanager.csproj",
+        "projectName": "k8-wordpressmanager",
+        "projectPath": "/Users/nlsxh0147/dev/prive/k8-wordpressmanager/k8-wordpressmanager.csproj",
+        "packagesPath": "/Users/nlsxh0147/.nuget/packages/",
+        "outputPath": "/Users/nlsxh0147/dev/prive/k8-wordpressmanager/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/nlsxh0147/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "KubeClient": {
+              "target": "Package",
+              "version": "[2.3.6, )"
+            },
+            "KubeClient.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.3.6, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5C9A7401-BACA-4B69-9DFC-E053219D7ACB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProjectsController (copy).cs">
+    <Files>
+      <File FileName="Controllers/WeatherForecastController.cs" Line="62" Column="43" />
+      <File FileName="Models/ProjectModel.cs" Line="4" Column="42" />
+      <File FileName="Models/BaseModel.cs" Line="12" Column="1" />
+      <File FileName="Startup.cs" Line="35" Column="874" />
+      <File FileName="Controllers/EnvironmentsController.cs" Line="52" Column="29" />
+      <File FileName="Models/DeploymentModel.cs" Line="4" Column="44" />
+      <File FileName="Controllers/ProjectsController (copy).cs" Line="14" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="k8-wordpressmanager" expanded="True">
+            <Node name="k8-wordpressmanager" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProjectsController (copy).cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.k8-wordpressmanager PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nlsxh0147/dev/prive/k8-wordpressmanager/Controllers/EnvironmentsController.cs" relfile="Controllers/EnvironmentsController.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
